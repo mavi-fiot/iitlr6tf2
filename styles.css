@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d3d4d0f4;
+    margin: 10;
+    padding-top: 50px; /* Встановлює відступ від верхнього краю */
+    padding-right: 50px; /* Встановлює відступ від правого краю */
+    padding-bottom: 70px; /* Встановлює відступ від нижнього краю */
+    padding-left: 70px; /* Встановлює відступ від лівого краю */}
+
+h1 {
+    color: #1277e4;
+}
+
+h2 {
+    color:rgb(4, 0, 245);
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #919191;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(14, 91, 235, 0.959);
+}
+
+input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #34e718;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #f8e42c;
+}
